@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class hesapmak {
     public static void main(String[] args) {
         int n1, n2, select;
         Scanner input = new Scanner(System.in);
